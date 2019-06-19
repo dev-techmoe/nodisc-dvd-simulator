@@ -14,7 +14,7 @@ Start a dev server to preview your app.
 
 ## TODO
 
-- []Responsive support
+- [ ] Responsive support
 
 ## License
 
