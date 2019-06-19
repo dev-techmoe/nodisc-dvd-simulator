@@ -3,6 +3,8 @@
 A no disc DVD simulator to help you save electric energy from launching DVD and TV
 > Created by [create-poi-app](https://poi.js.org).
 
+![](screenshot.gif)
+
 ## Project Scripts
 
 ### `npm run build`
