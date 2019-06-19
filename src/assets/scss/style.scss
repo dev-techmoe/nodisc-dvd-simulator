@@ -1,0 +1,19 @@
+html, body {
+    background: black;
+    height: 100%;
+    width: 100%;
+  }
+  .dvd_logo {
+    background-color: white;
+    height: 100px;
+    width: 196px;
+    -webkit-mask-image: url("/DVD_logo.svg");
+    mask-image: url("/DVD_logo.svg");
+    position: fixed;
+    left: 300px;
+    top: 300px;
+  }
+  .debug_info {
+    color: #ccc;
+    padding: 10px;
+  }

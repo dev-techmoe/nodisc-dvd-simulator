@@ -1,0 +1,16 @@
+{
+  "name": "nodisc-dvd-simulator",
+  "private": true,
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "poi": "^12.4.2",
+    "sass-loader": "^7.1.0"
+  },
+  "dependencies": {
+    "reset-css": "^4.0.1"
+  }
+}
