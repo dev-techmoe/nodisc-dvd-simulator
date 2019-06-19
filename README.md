@@ -1,4 +1,5 @@
 # nodisc-dvd-simulator
+[![Netlify Status](https://api.netlify.com/api/v1/badges/360c667b-17fe-49c0-b239-ece9a8df5ec9/deploy-status)](https://app.netlify.com/sites/nodisc-dvd-simulator/deploys)  
 A no disc DVD simulator to help you save electric energy from launching DVD and TV
 > Created by [create-poi-app](https://poi.js.org).
 
