@@ -54,7 +54,6 @@ function collision_checking() {
   // hitting right
   if (pos_x + logo_width >= container_width) {
     pos_x_calc = calc_sub;
-    pos_y_calc = calc_sub;
     change_color();
   }
   
