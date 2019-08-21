@@ -2,6 +2,7 @@
 import './assets/scss/style.scss';
 import 'reset-css';
 
+
 // config
 const speed = 5;
 const debug_mode = false;
